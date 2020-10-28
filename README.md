@@ -1,4 +1,4 @@
 # Coursera_DeepLearningAI
-Coursera DeepLearningAI Specialization
+Coursera Deep.Learning.AI Specialization
 
-Coursera Honor Code prevents me sharing the code here but you can access my certifications on my LinkedIn profile:  https://www.linkedin.com/in/zikribayraktar/
+Coursera Honor Code prevents me sharing the code here but you can access all my certifications (5 courses) on my LinkedIn profile:  https://www.linkedin.com/in/zikribayraktar/
